@@ -1,1 +1,3 @@
+We validate our model on four highway traffic datasets from California. The datasets are collected by the Caltrans Performance Measurement System (PeMS) (Chen et al., 2001) in real time every 30 seconds. The traffic data are aggregated into every 5-minute interval from the raw data. The system has more than 39,000 detectors deployed on the highway in the major metropolitan areas in California. Geographic information about the sensor stations are recorded in the datasets. There are three kinds of traffic measurements considered in our experiments, including total flow, average speed, and average occupancy.
+
 Other datasets used in the work are accessible on https://pan.baidu.com/s/1rsSJbcWIbHxKNxltrF0qUg code: 1111
